@@ -16,7 +16,7 @@ Este é um projeto de uma API RESTful desenvolvida com o objetivo de gerenciar o
 
 A documentação interativa da API pode ser acessada após o projeto ser iniciado em:
 
-http://localhost:8080/swagger-ui.html
+localhost:8080/swagger-ui.html
 
 
 ## ✅ Funcionalidades
